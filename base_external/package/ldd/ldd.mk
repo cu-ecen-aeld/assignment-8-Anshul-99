@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 7 git contents
-LDD_VERSION = a829a560f257dc7e3d34eee5ec0857a799162124 #Commit Version number
+LDD_VERSION = b7d065861face3744451586adb94527c252368e8 #Commit Version number
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
